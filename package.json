@@ -1,0 +1,16 @@
+{
+  "name": "com.theogramme.simplesequenceeditor",
+  "version": "0.9",
+  "displayName": "Simple Sequence Editor",
+  "description": "A simple sequence editor similar in design to the event editor found in RPG Maker software. ",
+  "unity": "2021.1",
+  "unityRelease": "12f1",
+  "documentationUrl": "https://github.com/reyrarnfredur/simple-sequence-editor/blob/master/README.md",
+  "changelogUrl": "https://github.com/reyrarnfredur/simple-sequence-editor/blob/master/README.md",
+  "licensesUrl": "https://github.com/reyrarnfredur/simple-sequence-editor/blob/master/LICENCE.md",
+  "author": {
+    "name": "Theogramme",
+    "email": "2cmontes@gmail.com",
+    "url": "https://www.theogramme.github.io"
+  }
+}
