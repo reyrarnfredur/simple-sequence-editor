@@ -12,5 +12,13 @@
     "name": "Theogramme",
     "email": "2cmontes@gmail.com",
     "url": "https://www.theogramme.github.io"
-  }
+  },
+  "samples": [
+        {
+            "displayName": "Action Samples",
+            "description": "Contains action samples like Wait, ChangePosition, ChangeRotation, etc.",
+            "path": "Samples~/ActionSamples"
+        }
+    ]
+
 }
