@@ -1,6 +1,6 @@
 {
   "name": "com.theogramme.simplesequenceeditor",
-  "version": "0.9",
+  "version": "0.1.0",
   "displayName": "Simple Sequence Editor",
   "description": "A simple sequence editor similar in design to the event editor found in RPG Maker software. ",
   "unity": "2021.1",
